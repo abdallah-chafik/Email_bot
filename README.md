@@ -65,3 +65,60 @@ Create a feature branch
 Commit your changes
 Push to the branch
 Open a Pull Request
+## Technologies Used 🛠️
+
+- Rust
+- `lettre` crate for SMTP management
+- `serde` and `serde_json` crates for configuration
+- Gmail SMTP
+
+## Installation 💻
+
+```bash
+git clone [your-repo]
+cd email-sender
+cargo build
+
+Partie 3:
+```markdown
+### Attachments 📎
+- Place your attachment files in an accessible folder
+- Modify the file path in the code according to your needs
+
+## Usage 🚀
+
+1. Configure your `email_config.json` file
+2. Prepare your attachments
+3. Run the program:
+
+```bash
+cargo run
+
+
+Project Structure 📁
+email-bot/
+├── src/
+│   └── main.rs
+├── email_config.json
+├── Cargo.toml
+└── README.md
+
+Partie 4:
+```markdown
+## Contributing 🤝
+
+Contributions are welcome! Feel free to:
+1. Fork the project
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+
+
+## Contact 📫
+
+abdellah.chafik.pro@gmail.com
+
+---
+Made with ❤️ by CHAFIK Abdellag
