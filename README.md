@@ -121,4 +121,4 @@ Contributions are welcome! Feel free to:
 abdellah.chafik.pro@gmail.com
 
 ---
-Made with ❤️ by CHAFIK Abdellag
+Made with ❤️ by CHAFIK Abdellah
